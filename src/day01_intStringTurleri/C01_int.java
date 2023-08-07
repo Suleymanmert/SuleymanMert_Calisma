@@ -1,4 +1,4 @@
-package D01_int_StringTurleri;
+package day01_intStringTurleri;
 
 public class C01_int {
     public static void main(String[] args) {
