@@ -2,7 +2,7 @@ package day03_scanner;
 
 import java.util.Scanner;
 
-public class CalismaClassi02 {
+public class Example_02 {
     public static void main(String[] args) {
 
         // Kullanicidan bir double, birde int sayi alip bunlarin toplamini ve carpimini yazdirin.

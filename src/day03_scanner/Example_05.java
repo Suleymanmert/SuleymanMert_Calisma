@@ -2,7 +2,7 @@ package day03_scanner;
 
 import java.util.Scanner;
 
-public class CalismaClassi05 {
+public class Example_05 {
 
     public static void main(String[] args) {
 

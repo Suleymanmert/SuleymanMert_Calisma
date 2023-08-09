@@ -2,7 +2,7 @@ package day03_scanner;
 
 import java.util.Scanner;
 
-public class CalismaClassi03 {
+public class Example_03 {
     public static void main(String[] args) {
 
         //  KUllanicidan ismini, soyismini ve yasini alıp, asagidaki formatta yazdirin.

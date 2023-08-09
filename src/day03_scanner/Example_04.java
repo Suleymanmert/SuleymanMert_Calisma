@@ -2,7 +2,7 @@ package day03_scanner;
 
 import java.util.Scanner;
 
-public class CalismaClassi04 {
+public class Example_04 {
     public static void main(String[] args) {
 
         // Kullanicidan bir dikdortgenin iki kenar uzunlugunu alip,dikdortgenin alanini yazdirin.
