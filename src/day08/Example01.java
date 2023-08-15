@@ -7,5 +7,6 @@ public class Example01 {
         // girilen karakterin buyuk harf olup olmadigini yazdirin.
 
 
+
     }
 }
