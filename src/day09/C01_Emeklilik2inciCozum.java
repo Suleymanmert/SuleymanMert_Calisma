@@ -12,7 +12,9 @@ public class C01_Emeklilik2inciCozum {
         // veya “Emekli olmak icin .. Yil daha calisman gerekir” yazdirin.
 
 
-        Scanner scanner=new Scanner(System.in);
+
+
+         Scanner scanner=new Scanner(System.in);
         System.out.println("lutfen cinsiyetinizi giriniz E: Erkek,K: Kadin");
         char cinsiyet =scanner.next().toUpperCase().charAt(0);
 
@@ -47,3 +49,4 @@ public class C01_Emeklilik2inciCozum {
         }
     }
 }
+
