@@ -18,9 +18,12 @@ public class C02_IfElseStatements {
         int girilenSayi = scanner.nextInt();
 
 
-        if (girilenSayi%3==0 && girilenSayi%5==0) System.out.println("Super sayi");
-        else if (girilenSayi%3==0) System.out.println("3 un kati");
-        else if (girilenSayi%5==0) System.out.println("5 in kati");
+        if (girilenSayi%3==0 && girilenSayi%5==0)
+            System.out.println("Super sayi");
+        else if (girilenSayi%3==0)
+            System.out.println("3 un kati");
+        else if (girilenSayi%5==0)
+            System.out.println("5 in kati");
         else System.out.println("yaramaz sayi");
         }
 
