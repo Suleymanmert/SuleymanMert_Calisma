@@ -17,5 +17,6 @@ public class C04_toUpperCase_toLowerCase {
         // eger yerel bir dile buyuk kucuk harf degisimi yapmak istersek
 
         System.out.println(str.toLowerCase(Locale.forLanguageTag("Tr"))); // java candır
+
     }
 }
