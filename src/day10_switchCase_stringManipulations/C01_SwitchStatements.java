@@ -2,7 +2,7 @@ package day10_switchCase_stringManipulations;
 
 import java.util.Scanner;
 
-public class C01_SwitchStataments {
+public class C01_SwitchStatements {
     public static void main(String[] args) {
         //Soru 4- Kullanicidan ISTQB kisaltmasindan harfin anlamini ogrenmek istedigini alin
         // ve girilen harfin karsiligini yazdirin.
